@@ -1,0 +1,14 @@
+{
+  "name": "desagio1",
+  "version": "1.0.0",
+  "description": "Desafio nodejs API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Mateus Henrique da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
