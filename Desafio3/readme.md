@@ -33,8 +33,17 @@ mongodb+srv://admin:<password>@cluster0.4csc6zd.mongodb.net/
 npm i
 npm run dev
 
-## testes
+## Teste para realizar
 POST:http://localhost:3000/employee/
+POST: http://localhost:3000/employee/populate
+
+Example:
+{
+  "id": 1,
+  "name":"mateus ssasasa",
+  "role":"teste" 
+}
+
 GET: http://localhost:3000/employee/
 PUT: http://localhost:3000/employee/${ID}
 DELETE: http://localhost:3000/employee/${ID}

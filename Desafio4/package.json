@@ -1,0 +1,15 @@
+{
+  "name": "desafio4",
+  "version": "1.0.0",
+  "description": "Desagio Cognum",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Mateus henrique da silva",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "nginx": "^1.0.8"
+  }
+}
